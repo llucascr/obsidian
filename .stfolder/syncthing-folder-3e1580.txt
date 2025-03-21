@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: Documents/Obsidian Vault
+created: 2025-03-19T00:16:55Z
