@@ -6,7 +6,17 @@
       "id": "dlNYsAhp-9XqHsA1ZSMTd",
       "name": "Red",
       "value": "#cc0000"
+    },
+    {
+      "id": "091TnVnmzYg8Okrr3SV1d",
+      "name": "Green",
+      "value": "#03bd00"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "6 - Full Notes/Java/Spring Boot",
+      "color": "091TnVnmzYg8Okrr3SV1d"
+    }
+  ]
 }

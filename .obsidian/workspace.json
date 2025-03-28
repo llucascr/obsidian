@@ -4,27 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "032c088e949c9b18",
+        "id": "90dbc8c0371a5b73",
         "type": "tabs",
-        "dimension": 62.880710659898476,
         "children": [
           {
-            "id": "6e327e2310eb06c4",
+            "id": "a4c15f1fc3a6f0f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Tags/Orientação a Objetos - POO.md",
+                "file": "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orientação a Objetos - POO"
-            },
-            "group": "9e3f11522c7e3d81"
+              "title": "Interface"
+            }
           },
           {
-            "id": "65946d46c66969e5",
+            "id": "f6abe526dea62442",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -33,82 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "056eed031b9400aa",
-        "type": "split",
-        "dimension": 37.119289340101524,
-        "children": [
-          {
-            "id": "9c19880f7e4c3f93",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bca5f5ab7e0e9290",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "3 - Tags/Orientação a Objetos - POO.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of Orientação a Objetos - POO"
-                },
-                "group": "9e3f11522c7e3d81"
-              }
-            ]
-          },
-          {
-            "id": "a027d81933ff21fc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3160401680e03e6e",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "3 - Tags/Orientação a Objetos - POO.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Orientação a Objetos - POO"
-                },
-                "group": "9e3f11522c7e3d81"
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Herança",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,18 +177,45 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "link-tree:Link Tree": false
+      "link-tree:Link Tree": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "65946d46c66969e5",
+  "active": "a4c15f1fc3a6f0f1",
   "lastOpenFiles": [
-    "3 - Tags/Orientação a Objetos - POO.md",
-    "3 - Tags/Java.md",
-    "6 - Full Notes/Java/POO/Polimorfismo.md",
-    "6 - Full Notes/Java/POO/Herança.md",
+    "6 - Full Notes/Java/POO/Drawings/Drawing Herança.md",
+    "6 - Full Notes/Java/POO/Interface x Classe Abstrata/Diferença entre Classe Abstrata x Interface.md",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Interface.md",
+    "6 - Full Notes/Java/POO/Interface x Classe Abstrata",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Polimorfismo.md",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos",
+    "1 - Rough Notes/Abstract Factory e Polimorfismo.md",
+    "1 - Rough Notes/Java Encapsulation.md",
+    "1 - Rough Notes/Explorando a Herança em Java Construindo Hierarquias de Classes e Promovendo a Reutilização de Código.md",
+    "1 - Rough Notes/Entendendo a Abstração em POO com Java.md",
+    "6 - Full Notes/Java/POO/Drawings",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Herança.md",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Encapsulamento.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "Excalidraw/Drawing 2025-03-26 21.25.39.excalidraw.md",
+    "6 - Full Notes/Java/Spring Boot/JPA/JPA.md",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Abstração.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
     "5 - Templates/Generic Note.md",
+    "3 - Tags/Spring Boot.md",
+    "6 - Full Notes/Java/Spring Boot/JPA",
+    "6 - Full Notes/Java/Spring Boot",
+    "3 - Tags/Orientação a Objetos - POO.md",
     "1 - Rough Notes/Comandos git.md",
-    "6 - Full Notes/Herança.md",
-    "1 - Rough Notes/Explorando a Herança em Java Construindo Hierarquias de Classes e Promovendo a Reutilização de Código.md"
+    "1 - Rough Notes/Encapsulamento em Java - como manter a integridade dos objetos.md",
+    "2 - Source Materials/Pasted image 20250325201524.png",
+    "2 - Source Materials/Pasted image 20250325202142.png",
+    "2 - Source Materials/Pasted image 20250325202157.png",
+    "2 - Source Materials/Pasted image 20250319202532.png",
+    "3 - Tags/Java.md",
+    "6 - Full Notes/Herança.md"
   ]
 }

@@ -1,4 +1,6 @@
 Source: https://www.dio.me/articles/explorando-a-heranca-em-java-construindo-hierarquias-de-classes-e-promovendo-a-reutilizacao-de-codigo
+
+---
 # **_Introdução_**
 
 A herança é um dos conceitos fundamentais da Programação Orientada a Objetos (POO), permitindo que as classes compartilhem características e comportamentos comuns enquanto estendem ou modificam esses atributos para atender a requisitos específicos. Em Java, a herança é uma pedra angular da linguagem, possibilitando a criação de hierarquias de classes poderosas e facilitando a reutilização de código. Neste artigo, exploraremos a herança em profundidade, suas aplicações práticas e forneceremos exemplos técnicos em Java.

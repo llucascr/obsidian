@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "d9f7f3497dae3337",
+            "id": "50d660a765425654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Generic Note.md",
+                "file": "6 - Full Notes/Java/POO/Encapsulamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generic Note"
+              "title": "Encapsulamento"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5 - Templates/Generic Note.md",
+            "file": "6 - Full Notes/Java/POO/Encapsulamento.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,8 +170,10 @@
       "link-tree:Link Tree": false
     }
   },
-  "active": "c741e582c195295d",
+  "active": "50d660a765425654",
   "lastOpenFiles": [
+    "1 - Rough Notes/Java Encapsulation.md",
+    "6 - Full Notes/Java/POO/Herança.md",
     "5 - Templates/Generic Note.md",
     "6 - Full Notes/Herança.md",
     "1 - Rough Notes/Herança.md",
