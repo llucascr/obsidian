@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Spring Boot]]
+Tags: [[JPA]]
 
 ---
 

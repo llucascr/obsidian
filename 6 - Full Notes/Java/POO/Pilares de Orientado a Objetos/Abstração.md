@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Orientação a Objetos - POO]]
+Tags: [[Abstração]]
 
 ---
 
@@ -76,4 +76,4 @@ A abstração é um conceito fundamental em POO que facilita o gerenciamento da 
 
 ---
 # Referências
-[[Orientação a Objetos - POO]]
+[[Abstração]]

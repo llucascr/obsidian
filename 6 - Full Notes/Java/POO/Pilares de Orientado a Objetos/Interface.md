@@ -3,7 +3,7 @@
 
 Status:
 
-Tags: [[Orientação a Objetos - POO]]
+Tags: [[Interface]]
 
 ---
 
@@ -54,7 +54,7 @@ public class Carro implements Veiculo {
 |Métodos Com Corpo|Apenas métodos default e static (Java 8+)|Métodos concretos permitidos|
 |Modificadores de Acesso|Sempre públicos e abstratos|Métodos e atributos podem ter qualquer visibilidade|
 ## Diferença entre Classe Abstrata x Interface
-[[Diferença entre Classe Abstrata x Interface]]
+[[6 - Full Notes/Java/POO/Interface x Classe Abstrata/Diferença entre Classe Abstrata x Interface]]
 
 A Classe abstrata está relacionada a contratos que precisam ser definidos, como por exemplo classe Carro, Moto. Interface é a capacidade de um mesmo objeto ter propriedades e papeis diferentes em uma aplicação
 
@@ -106,4 +106,4 @@ public interface Calculadora {
 
 ---
 # Referências
-[[Orientação a Objetos - POO]]
+[[Interface]]

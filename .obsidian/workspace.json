@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a0ba7517438595",
+        "id": "1973a077b824e43e",
         "type": "tabs",
         "children": [
           {
-            "id": "780244bdf52f74c0",
+            "id": "e4dfd043060bb3f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Full Notes/Projeto Integrador/PI3/Implementações Futuras Firebase.md",
+                "file": "6 - Full Notes/Java/Exemplos/Abstração com Classes e Encapsulamento/Criando a primeira Classe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementações Futuras Firebase"
-            }
-          },
-          {
-            "id": "aae6a2662129b2e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projeto Integrador 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projeto Integrador 3"
-            }
-          },
-          {
-            "id": "14ac644ca8efe38d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Criando a primeira Classe"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.5
   },
   "right": {
     "id": "95b104542923f8c4",
@@ -196,17 +171,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "14ac644ca8efe38d",
+  "active": "e4dfd043060bb3f6",
   "lastOpenFiles": [
-    "Projeto Integrador 3.md",
-    "6 - Full Notes/Projeto Integrador/PI3/Implementações Futuras Firebase.md",
-    "6 - Full Notes/Projeto Integrador/PI3",
-    "6 - Full Notes/Projeto Integrador",
+    "3 - Tags/ExemplosPOO.md",
+    "3 - Tags/Orientação a Objetos - POO.md",
+    "6 - Full Notes/Java/Exemplos/Abstração com Classes e Encapsulamento/Criando a primeira Classe.md",
     "6 - Full Notes/Java/POO/Interface x Classe Abstrata/Diferença entre Classe Abstrata x Interface.md",
     "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Interface.md",
+    "Diferença entre Classe Abstrata x Interface.md",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Encapsulamento.md",
     "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Polimorfismo.md",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Abstração.md",
+    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Herança.md",
+    "3 - Tags/Java.md",
+    "Untitled.canvas",
+    "6 - Full Notes/Java/Spring Boot/JPA/JPA.md",
+    "3 - Tags/Spring Boot.md",
+    "6 - Full Notes/Java/Exemplos/Abstração com Classes e Encapsulamento",
+    "6 - Full Notes/Java/Exemplos",
+    "6 - Full Notes/Projeto Integrador/PI3/Implementações Futuras Firebase.md",
+    "1 - Rough Notes/Montador Gradle.md",
+    "3 - Tags/Projeto Integrador 3.md",
+    "6 - Full Notes/Projeto Integrador/PI3",
+    "6 - Full Notes/Projeto Integrador",
     "6 - Full Notes/Andoid/Firebase/Regras do Service Firestore.md",
-    "Montador Gradle.md",
     "3 - Tags/Firebase.md",
     "3 - Tags/Kotlin.md",
     "3 - Tags/Android.md",
@@ -221,20 +209,8 @@
     "1 - Rough Notes/Explorando a Herança em Java Construindo Hierarquias de Classes e Promovendo a Reutilização de Código.md",
     "1 - Rough Notes/Entendendo a Abstração em POO com Java.md",
     "6 - Full Notes/Java/POO/Drawings",
-    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Herança.md",
-    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Encapsulamento.md",
-    "Excalidraw/Scripts/Downloaded/Invert colors.md",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "Excalidraw/Drawing 2025-03-26 21.25.39.excalidraw.md",
-    "6 - Full Notes/Java/Spring Boot/JPA/JPA.md",
-    "6 - Full Notes/Java/POO/Pilares de Orientado a Objetos/Abstração.md",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "5 - Templates/Generic Note.md",
-    "3 - Tags/Spring Boot.md",
-    "3 - Tags/Orientação a Objetos - POO.md",
-    "1 - Rough Notes/Comandos git.md",
     "2 - Source Materials/Pasted image 20250325201524.png",
     "2 - Source Materials/Pasted image 20250325202142.png",
     "2 - Source Materials/Pasted image 20250325202157.png",

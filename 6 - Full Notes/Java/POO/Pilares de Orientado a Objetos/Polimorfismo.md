@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Orientação a Objetos - POO]]
+Tags: [[Polimorfismo]]
 
 ---
 
@@ -86,4 +86,4 @@ Em resumo, o polimorfismo é uma técnica poderosa que reduz acoplamento, melhor
 
 ---
 # Referências
-[[Orientação a Objetos - POO]]
+[[Polimorfismo]]

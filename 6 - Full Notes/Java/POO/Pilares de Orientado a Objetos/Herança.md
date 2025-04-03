@@ -2,7 +2,7 @@
 
 Status: 
 
-Tags: [[Orientação a Objetos - POO]] | 
+Tags: [[Herança]]
 
 ---
 
@@ -88,4 +88,4 @@ A herança em Java é uma técnica poderosa para criar hierarquias de classes qu
 
 ---
 # Referências
-[[Orientação a Objetos - POO]]
+[[Herança]]

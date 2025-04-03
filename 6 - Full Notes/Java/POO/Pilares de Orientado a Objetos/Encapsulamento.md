@@ -2,7 +2,7 @@
 
 Status:
 
-Tags: [[Orientação a Objetos - POO]]
+Tags: [[Encapsulamento]]
 
 ---
 
@@ -52,4 +52,4 @@ Isso garante que outras classes não possam alterar diretamente os dados da clas
 
 ---
 # Referências
-[[Orientação a Objetos - POO]]
+[[Encapsulamento]]

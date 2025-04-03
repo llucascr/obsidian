@@ -2,7 +2,7 @@
 
 Status: #Todo
 
-Tags: [[Interface]]
+Tags: [[Diferença entre Classe Abstrata x Interface]]
 
 ---
 
@@ -77,4 +77,4 @@ class Gato implements Som {
 
 ---
 # Referências
-[[Interface]]
+[[Diferença entre Classe Abstrata x Interface]]
